@@ -68,9 +68,13 @@ anything, always looking for new ideas, skills, and experiences to explore.
 ```
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=17sync&show_icons=true&theme=dark&hide_border=true&hide_rank=true&hide_title=true" height="150"/>
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=17sync&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="137" alt="streak graph"  />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17sync&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=8&card_width=320" height="150"/>
 </div>
 
