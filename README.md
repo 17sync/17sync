@@ -1,56 +1,70 @@
-<div align="center">
-  <img height="500" src="https://giphy.com/gifs/daft-punk-bass-1gO2qJJs29aw0"  />
+<div align="left">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTU1eXBsc2NwNmZjejlyNmsxYjQzYmppNmpmcWx4aGV3bjB6c3E1YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gkL5TOlT8lforzjDiB/giphy.gif"  />
 </div>
-
-###
-
-<h1 align="left">Summary</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">Interests</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/17sync/17sync/snake-output/snake.svg" alt="Snake animation" />
+<h1 align="left">Muhammad Aun Anis</h1>
 
 ###
-Explore More Books
 
-Browse the full list of curated titles to boost your coding skills.
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+<h3 align="left">Summary</h3>
 
-Profile Readme Generator
+###
+```
+Software engineering student from Pakistan (currently in my 5th semester) with a passion for problem-solving and innovation. Whether it's coding an application, diving into complex algorithms, or exploring new technologies, I'm always eager to learn and push my boundaries. Outside of tech, I love playing video games, especially Soulsborne titles, where strategy, persistence, and adaptability are key (kind of like debugging, but with more bosses!). I also enjoy sports, keeping active, and challenging myself both physically and mentally. I'm curious about everything and anything, always looking for new ideas, skills, and experiences to explore.
+```
+###
+
+<h3 align="left">Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+</div>
+
+###
+
+<h3 align="left">Interests</h3>
+
+###
+```
+- Game Development
+- Operating Systems
+- Data Structures and Algorithms
+- Artificial Intelligence and Machine Learning
+- Backend Engineering
+```
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=17sync&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="137" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/17sync/17sync/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
