@@ -22,10 +22,11 @@
 ```
 Software engineering student from Pakistan (currently in my 5th semester) with a passion for problem-solving and innovation.
 Whether it's coding an application, diving into complex algorithms, or exploring new technologies, I'm always eager to learn
-and push my boundaries. Outside of tech, I love playing video games, especially Soulsborne titles, where strategy, persistence,
-and adaptability are key (kind of like debugging, but with more bosses!). I also enjoy sports, keeping active, and challenging
-myself both physically and mentally. I'm curious about everything and anything, always looking for new ideas, skills, and
-experiences to explore.
+and push my boundaries.
+Outside of tech, I love playing video games, especially Soulsborne titles, where strategy, persistence, and adaptability
+are key (kind of like debugging, but with more bosses!).
+I also enjoy sports, keeping active, and challenging myself both physically and mentally. I'm curious about everything and
+anything, always looking for new ideas, skills, and experiences to explore.
 ```
 ###
 
