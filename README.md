@@ -5,9 +5,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo"  />
+  <img width="6" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
+  <img width="6" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
+  
 </div>
 
 ###
@@ -20,7 +23,13 @@
 
 ###
 ```
-Software engineering student from Pakistan (currently in my 5th semester) with a passion for problem-solving and innovation. Whether it's coding an application, diving into complex algorithms, or exploring new technologies, I'm always eager to learn and push my boundaries. Outside of tech, I love playing video games, especially Soulsborne titles, where strategy, persistence, and adaptability are key (kind of like debugging, but with more bosses!). I also enjoy sports, keeping active, and challenging myself both physically and mentally. I'm curious about everything and anything, always looking for new ideas, skills, and experiences to explore.
+Software engineering student from Pakistan (currently in my 5th semester) with a passion for problem-solving and innovation.
+Whether it's coding an application, diving into complex algorithms, or exploring new technologies, I'm always eager to learn
+and push my boundaries.
+Outside of tech, I love playing video games, especially Soulsborne titles, where strategy, persistence, and adaptability
+are key (kind of like debugging, but with more bosses!).
+I also enjoy sports, keeping active, and challenging myself both physically and mentally. I'm curious about everything and
+anything, always looking for new ideas, skills, and experiences to explore.
 ```
 ###
 
@@ -50,6 +59,10 @@ Software engineering student from Pakistan (currently in my 5th semester) with a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
 </div>
 
 ###
@@ -66,9 +79,9 @@ Software engineering student from Pakistan (currently in my 5th semester) with a
 ```
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=17sync&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="137" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/17sync/17sync/languages-output/languages.svg" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17sync&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=8&card_width=320" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=17sync&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="137" alt="streak graph"  />  
 </div>
 
 ###
